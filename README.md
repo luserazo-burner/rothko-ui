@@ -18,6 +18,6 @@ or
 yarn add @rothko-ui/ui @rothko-ui/icons
 ```
 
-### License
+### License!
 
 MIT
